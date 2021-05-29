@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="movies">Movies</string>
+    <string name="toolbar_title_movie">Detail Movie</string>
+    <string name="toolbar_title_tvShow">Detail TV Show</string>
+</resources>
